@@ -1,0 +1,10 @@
+package com.lumen.basics;
+
+public class ArmStrongNumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
